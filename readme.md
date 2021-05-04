@@ -3,7 +3,7 @@
 
 ****
 
-[Ссылка на проект](https://pavelcydep.github.io/Russia-adaptiv-verstka/)
+[Ссылка на проект](https://pavelcydep.github.io/switch/)
 
 ## Стек:
 ![](htmlcss.png)
