@@ -1,6 +1,7 @@
 # switch
 
-
+## О проекте: Switch-это простой учебный проект для ознакомления фреймворку React.
+![](switch.png)
 ****
 
 [Ссылка на проект](https://pavelcydep.github.io/switch/)
